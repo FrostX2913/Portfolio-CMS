@@ -1,0 +1,606 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"macula",
+				"macula-mariusHL"
+			],
+			[
+				"flame",
+				"flame-glassHL"
+			],
+			[
+				"cent",
+				"align-content\tproperty"
+			],
+			[
+				"path",
+				"path"
+			],
+			[
+				"key",
+				"key"
+			],
+			[
+				"ut",
+				"utf8_encode"
+			],
+			[
+				"utf",
+				"utf8_encode"
+			],
+			[
+				"rule",
+				"rule"
+			],
+			[
+				"n",
+				"n"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/Users/pc/Downloads/extension_2018_10_1_2/build/sidebar.js",
+			"settings":
+			{
+				"buffer_size": 59110,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/pc/Downloads/extension_2018_10_1_2/loc/text.js",
+			"settings":
+			{
+				"buffer_size": 40721,
+				"encoding": "UTF-8 with BOM",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/pc/Downloads/extension_2018_10_1_2/build/templateforsidebar.js",
+			"settings":
+			{
+				"buffer_size": 1973,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/Python/Python.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"package control:install package",
+				"Package Control: Install Package"
+			],
+			[
+				"pACKAGE control:Install Package",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 143.0,
+		"history":
+		[
+			"      ",
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/wamp64/www/cms",
+		"/C/wamp64/www/cms/app",
+		"/C/wamp64/www/cms/app/views",
+		"/C/wamp64/www/cms/app/views/admin",
+		"/C/wamp64/www/cms/classes",
+		"/C/wamp64/www/cms/core",
+		"/C/wamp64/www/cms/deprecated",
+		"/C/wamp64/www/cms/functions",
+		"/C/wamp64/www/cms/js"
+	],
+	"file_history":
+	[
+		"/C/Users/pc/Desktop/TenshiBot/run.py",
+		"/C/Users/pc/Downloads/extension_2018_10_1_2/build/popup.js",
+		"/C/Users/pc/Downloads/extension_2018_10_1_2/build/pages.js",
+		"/C/Users/pc/Downloads/extension_2018_10_1_2/build/templateforsidebar.js",
+		"/C/Users/pc/Downloads/extension_2018_10_1_2/build/util.js",
+		"/C/Users/pc/Downloads/extension_2018_10_1_2/content/api.js",
+		"/C/Users/pc/Downloads/extension_2018_10_1_2/content/authenticate.html",
+		"/C/Users/pc/Downloads/extension_2018_10_1_2/loc/text.js",
+		"/C/Users/pc/Downloads/extension_2018_10_1_2/src/options_custom/js/classes/search.js",
+		"/C/Users/pc/Downloads/extension_2018_10_1_2/src/options_custom/js/classes/tab.js",
+		"/C/Users/pc/Downloads/extension_2018_10_1_2/src/options_custom/js/classes/fancy-settings.js",
+		"/C/Users/pc/Downloads/extension_2018_10_1_2/src/options_custom/js/classes/setting.js",
+		"/C/Users/pc/Downloads/extension_2018_10_1_2/src/options_custom/settings.js",
+		"/C/Users/pc/Downloads/extension_2018_10_1_2/src/options_custom/lib/store.js",
+		"/C/Users/pc/Downloads/extension_2018_10_1_2/build/promises.js",
+		"/C/Users/pc/Downloads/extension_2018_10_1_2/build/conditions.js",
+		"/C/Users/pc/Downloads/extension_2018_10_1_2/build/sidebar.js",
+		"/C/Users/pc/Downloads/extension_2018_10_1_2/src/popup/popup.html",
+		"/C/Users/pc/Downloads/extension_2018_10_1_2/src/bg/background.html",
+		"/C/Users/pc/Downloads/extension_2018_10_1_2/src/options_custom/index.html",
+		"/C/Users/pc/Downloads/extension_2018_10_1_2/src/options_custom/README.md",
+		"/C/Users/pc/Downloads/extension_2018_10_1_2/content/api_test.html",
+		"/C/Users/pc/Downloads/extension_2018_10_1_2/content/mobile.css",
+		"/C/Users/pc/Downloads/extension_2018_10_1_2/content/sha_dev.js",
+		"/C/Users/pc/Downloads/extension_2018_10_1_2/content/api.html",
+		"/C/Users/pc/Downloads/extension_2018_10_1_2/content/changelog.html",
+		"/C/Users/pc/Desktop/data/assignment_template.py",
+		"/C/Users/pc/Desktop/TenshiBot/functions/role.py",
+		"/C/Users/pc/Desktop/TenshiBot/functions/__init__.py",
+		"/C/Users/pc/Desktop/TenshiBot/functions/roles.py",
+		"/C/Users/pc/Desktop/TenshiBot/modules/roles.py",
+		"/C/Users/pc/Desktop/TenshiBot/modules/__init__.py",
+		"/C/Users/pc/Desktop/run2.py",
+		"/C/Users/pc/Desktop/data/visualise.py",
+		"/C/wamp64/www/cms/profile.php",
+		"/C/wamp64/www/cms/app/views/profile.php",
+		"/C/wamp64/www/cms/app/views/home.php",
+		"/C/wamp64/www/cms/app/views/portfolio.php",
+		"/C/wamp64/www/cms/portfolio.php",
+		"/C/wamp64/www/cms/panel2.php",
+		"/C/wamp64/www/cms/panel.php",
+		"/C/wamp64/www/cms/page2.php",
+		"/C/wamp64/www/cms/page.php",
+		"/C/wamp64/www/cms/logout.php",
+		"/C/wamp64/www/cms/login.php",
+		"/C/wamp64/www/cms/home.php",
+		"/C/wamp64/www/cms/edit2.php",
+		"/C/wamp64/www/cms/edit.php",
+		"/C/wamp64/www/cms/delete2.php",
+		"/C/wamp64/www/cms/delete.php",
+		"/C/wamp64/www/cms/blog.php",
+		"/C/wamp64/www/cms/article.php",
+		"/C/wamp64/www/cms/add2.php",
+		"/C/wamp64/www/cms/add.php",
+		"/C/wamp64/www/cms/functions/sanitize.php",
+		"/C/wamp64/www/cms/core/init.php",
+		"/C/wamp64/www/cms/core/start.php",
+		"/C/wamp64/www/cms/update.php",
+		"/C/wamp64/www/cms/register.php",
+		"/C/wamp64/www/cms/classes/Token.php",
+		"/C/wamp64/www/cms/classes/Session.php",
+		"/C/wamp64/www/cms/classes/Sanitize.php",
+		"/C/wamp64/www/cms/classes/Redirect.php",
+		"/C/wamp64/www/cms/classes/Hash.php",
+		"/C/wamp64/www/cms/classes/DB.php",
+		"/C/wamp64/www/cms/classes/Cookie.php",
+		"/C/wamp64/www/cms/classes/Config.php",
+		"/C/wamp64/www/cms/classes/Input.php",
+		"/C/wamp64/www/cms/classes/User.php",
+		"/C/wamp64/www/cms/classes/Validate.php",
+		"/C/wamp64/www/cms/js/custom.js",
+		"/C/wamp64/www/cms/app/views/blog.php",
+		"/C/wamp64/www/cms/css/style.css",
+		"/C/wamp64/www/cms/app/views/admin/list2.php",
+		"/C/wamp64/www/cms/app/views/admin/list.php",
+		"/C/wamp64/www/cms/app/views/page/show.php",
+		"/C/wamp64/www/cms/app/views/page/blog.php",
+		"/C/wamp64/www/cms/app/views/admin/add.php",
+		"/C/wamp64/www/cms/app/views/templates/sidebar.php",
+		"/C/wamp64/www/cms/app/views/admin/add2.php",
+		"/C/wamp64/www/cms/app/views/admin/edit2.php",
+		"/C/wamp64/www/cms/app/views/admin/edit.php",
+		"/C/wamp64/www/cms/app/views/templates/header.php",
+		"/C/wamp64/www/cms/app/views/admin/blog.php",
+		"/C/wamp64/www/cms/deprecated/delete2.php",
+		"/C/wamp64/www/cms/deprecated/delete.php",
+		"/C/wamp64/www/cms/app/views/admin/delete2.php",
+		"/C/wamp64/www/cms/app/views/admin/delete.php",
+		"/C/wamp64/www/cms/changepassword.php",
+		"/C/Users/pc/Creative Cloud Files/IA Chess/main.html",
+		"/C/Users/pc/Creative Cloud Files/IA Chess/css/styles2.css",
+		"/C/wamp64/www/login/index.php",
+		"/C/wamp64/www/cms/deprecated/profile.php",
+		"/C/wamp64/www/cms/classes/Gallery.php",
+		"/C/wamp64/www/cms/gallery.php",
+		"/C/Users/pc/Downloads/fileupload (1).php",
+		"/C/wamp64/www/cms - orig/admin/edit.php",
+		"/C/wamp64/www/cms - orig/admin/add.php",
+		"/C/wamp64/www/cms/admin/add.php",
+		"/C/wamp64/www/cms/admin/delete.php",
+		"/C/wamp64/www/cms/admin/edit.php",
+		"/C/wamp64/www/cms/upload.php",
+		"/C/wamp64/www/cms/admin/list.php",
+		"/C/wamp64/www/cms - orig/app/start.php",
+		"/C/wamp64/www/cms - orig/app/views/home.php",
+		"/C/wamp64/www/cms - orig/index.php",
+		"/C/wamp64/www/cms/app/views/templates/footer.php",
+		"/C/wamp64/www/cms/css/login.css",
+		"/C/wamp64/www/cms/app/views/page/single-portfolio.php",
+		"/C/wamp64/www/portfolio/blog.html",
+		"/C/wamp64/www/portfolio/portfolio2.php",
+		"/C/wamp64/www/cms/index.php",
+		"/C/wamp64/www/portfolio/home.php",
+		"/C/wamp64/www/portfolio/css/style.css",
+		"/C/wamp64/www/portfolio/home2.php",
+		"/C/wamp64/www/cms/app/start.php",
+		"/C/wamp64/www/cms/app/functions.php",
+		"/C/wamp64/www/login/upload.php",
+		"/C/wamp64/www/login/classes/User.php",
+		"/C/wamp64/www/login/profile.php",
+		"/C/wamp64/www/login/classes/Gallery.php",
+		"/C/wamp64/www/login/gallery.php",
+		"/C/wamp64/www/login/classes/upload.php",
+		"/C/wamp64/www/login/classes/Redirect.php",
+		"/C/wamp64/www/login/update.php",
+		"/C/wamp64/www/login/classes/Hash.php",
+		"/C/wamp64/www/login/register.php",
+		"/C/wamp64/www/login/changepassword.php"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"glass",
+			"tia",
+			"glass",
+			"hardplus",
+			" makeTreasureRaidBookmark",
+			"var",
+			"sub",
+			"summon",
+			"twin",
+			"nutuku",
+			"getraidinfo",
+			"makeTreasureRaidBookmark",
+			"summonraids",
+			"summon",
+			"summonraids",
+			"summon",
+			"summonraids",
+			"currentSettings",
+			"show_bushfire",
+			"numpu",
+			"numoy",
+			"numpy",
+			"numpu",
+			"nump",
+			"c://",
+			"sys",
+			"unicode",
+			"platform",
+			"random",
+			"e",
+			"$path",
+			"escape",
+			"salt",
+			"\"\"",
+			"''",
+			"salt",
+			"hash",
+			"heart",
+			"home",
+			"images",
+			"results",
+			"fade",
+			"home",
+			"button",
+			"BUTTON",
+			"return",
+			"featured-img",
+			"insert path",
+			"label",
+			"onclick",
+			"require",
+			"addeventlistener",
+			"_db->get",
+			"getinstance",
+			"DB::get",
+			"get",
+			"db",
+			"query",
+			"fade",
+			"login",
+			"%;",
+			"logintrigger",
+			"form",
+			"server.php",
+			"font-color",
+			"submit",
+			"login",
+			"salt",
+			"user asked",
+			"user",
+			"home",
+			"background-color",
+			"list",
+			"action",
+			"id",
+			"update",
+			"fontawesome",
+			"functools",
+			"author",
+			"coin",
+			"msg_history",
+			"radio_channel",
+			"yoyosay",
+			"radio",
+			"msg_history",
+			"contains",
+			"mods_only",
+			"send_message",
+			"reaction",
+			"reactions",
+			"angel",
+			"reaction",
+			"wraps",
+			"mods",
+			"remove",
+			"clear",
+			"prune",
+			"message",
+			"reaction",
+			"raw",
+			"on_message",
+			"def",
+			"--",
+			"-",
+			"--",
+			"prefix"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Users/pc/Downloads/extension_2018_10_1_2/build/sidebar.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 59110,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								18400,
+								18400
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 6227.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/Users/pc/Downloads/extension_2018_10_1_2/loc/text.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 40721,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								30392,
+								30392
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 13995.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/Users/pc/Downloads/extension_2018_10_1_2/build/templateforsidebar.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1973,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1604,
+								1604
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 351.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 51.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 92.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Main.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 167.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
