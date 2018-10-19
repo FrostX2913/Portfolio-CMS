@@ -12,7 +12,7 @@ input[type=text], input[type=password] {
 h1 {
     text-align:center;
 }
-
+/* Fail Message */
 .fail p{
     background-color: #F93D5C;
     color: white;
